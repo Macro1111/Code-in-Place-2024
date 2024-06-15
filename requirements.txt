@@ -1,0 +1,12 @@
+
+Español:
+pandas se utiliza para leer datos desde un archivo Excel y manipularlos como un DataFrame (df).
+openpyxl se utiliza como complemento de pandas para poder manejar archivos especificos de Excel (.xlsx)
+docxtpl se emplea para cargar una plantilla de documento de Word y renderizarla con datos dinámicos.
+num2words se usa para convertir números a palabras, en este caso, para convertir el valor numérico en letras.
+
+Ingles:
+pandas is used to read data from an Excel file and manipulate it as a DataFrame (df).
+openpyxl is used as a complement to pandas to handle specific Excel files (.xlsx).
+docxtpl is employed to load a Word document template and render it with dynamic data.
+num2words is used to convert numbers to words, in this case, to convert the numeric value into letters.
